@@ -25,15 +25,17 @@ https://play.google.com/store/apps/details?id=com.offline.navi.motorcamp&hl=ko
 -빠른 길: 운행 시간을 줄일 수 있는 길로 안내
 -커브 길: 라이딩이 재미 있는 커브 길로 안내
 
-3. 지도 (V8)
+3. 지도 (V10)
 라이더 지도 설정 
+- 다크 모드
+- 빠른메뉴 > 레이어 온/오프
 - 배경 색상
 - 텍스처
 - 도로 - 색상, 너비, 확대/축소
 - 관심 지점 - 지도상에 표시 / 미표시 설정: 경계선, 지역 이름,유료도로,이륜차 짐입금지 표지팑, 요금소,주유소, 충전소, 야영장, 화장실...
  
 4. 길찾기 및 길안내
--들르기(경유)(V3) - 무한대
+-들르기(경유)(V4) - 무한대
 -미리보기 모의주행(V2)- 무제한 속도, 운행 모드, 설정 반영
 -내비게이션 모드(V6) - 고정 운행 화면 및 방위 화살표,지도고정/내비모드 버튼
 -고급 설정 - 자동차(유료/무료), 출발지,경유지,도착지 오른족/왼쪽 위치 설정, 화면각도 설정
@@ -55,6 +57,7 @@ https://play.google.com/store/apps/details?id=com.offline.navi.motorcamp&hl=ko
 -운행 정보 : GPS 속도, 도로 이름, 구간 거리, 실시간 속도로 목적지까지 계산되는 남은 시간 
 
 5. 검색 (V3)
+-지도 빠른 메뉴 > 이름,이륜차 진입금지,유료,관심지점 개별 추가
 -장소, 주소, 좌표 빠른 검색 & 오프라인 저장
 -교통 CCTV
 -주유소 검색 - 반경 5 km 내 가장 싼 주유소 포함 리스트 & 오프라인 저장 및 검색,팝업 가격창
@@ -88,14 +91,16 @@ Google or Samsung text-to-speech engine should already be set up on the phone wi
 -Scooter 50 cc (in development) - plus excludes 70 km roads
 -Bicycle(V4) - excludes two-wheel offlimit roads / 80 km roads  plus bicycle only roads
 
-3. Map  (V8) - Rider Customization
+3. Map  (V10) - Rider Customization
+-Dark Mode
+-Quick Menu > layers on/off
 -Background color
 -Textures
 -Road layer - cycleway, freeway, and off-limit roads 
 -POI - on / off switch for boundary, area, gas stations, camp grounds, restroom etc 
 
 4. Route Search & Navigation
--Waypoints(V3) - no limit
+-Waypoints(V4) - no limit
 -Route drive preview (V2) - preview route in animated action with unlimited speed control and drive mode.
 -Navigation mode(V6) -  fixed bearing with mode button,
 -Turn by turn(V3) - visual, voice 
@@ -105,7 +110,7 @@ Google or Samsung text-to-speech engine should already be set up on the phone wi
 -Excludes roads offlimit to motorcycle.
 -Restriction signs (V2) - see farther after tilt is applied 
 -Avoids turn restrictions.
--Auto-navigation function(V5s) - improved off-route distance calculation for auto-rerouting; 
+-Auto-navigation function(V5) - improved off-route distance calculation for auto-rerouting; 
 	manual/automatic route search towards GPS/magnetic direction (for fastest/short-fastest profiles only)
 -Search and preview route with user selected location    
 -Control time/distance on location update.
@@ -115,6 +120,7 @@ Google or Samsung text-to-speech engine should already be set up on the phone wi
 -Driving Information: GPS speed, street name, address/coordinates, time remaining
 
 5. Search (V3)
+- Map quick menu > name,restriction signs,toll roads, Points of interest
 - Fast search for place, address, or coordinates
 - Traffic CCTV
 - Offline address search list
